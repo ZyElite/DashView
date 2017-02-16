@@ -20,5 +20,4 @@
 
 ### Screenshot
 
-![Alt text](https://github.com/1340641314/react-cnode/raw/master/shot/1.png)
 
