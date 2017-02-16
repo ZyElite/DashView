@@ -20,4 +20,4 @@
 
 ### Screenshot
 
-![Alt text](https://github.com/ZyElite/DashView/master/Screenshot/s1.png)
+![Alt text](https://github.com/ZyElite/DashView/blob/master/Screenshot/s1.png)
