@@ -1,5 +1,5 @@
 # DashView
-
+  绘制任意方向的虚线控件
 ### Use
 ```
   dependencies {
